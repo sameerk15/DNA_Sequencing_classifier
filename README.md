@@ -12,7 +12,7 @@ Our independent variable(X) is sequence and dependent variable(y) is the class l
 
 ## Roadmap
 
-Let us understand the basic approach of this project
+Let us understand the basic approach of this project :
 
 1) Importing dataset and libraries.
 2) Apply k-mers counting on the sequences 
