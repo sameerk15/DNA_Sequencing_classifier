@@ -1,5 +1,5 @@
 
-# DNA Sequence Classifier
+# DNA_Sequence_Classifier
 
 DNA or Deoxyribonucleic acid is a hereditary material in human beings and in every other living organism. The information in DNA is stored in the form of code made of four chemical bases i.e. Adenine(A), Guanine(G), Cytosine(C), Thymine(T). 
 
